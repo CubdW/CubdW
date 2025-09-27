@@ -1,7 +1,7 @@
 ## Amazingly amazing
 - 🔭 I’m currently working on learning.
   
-[![So good](https://github-readme-stats.vercel.app/api?username=CubdW)](https://github.com/anuraghazra/github-readme-stats)
+[![So good](https://github-readme-stats.vercel.app/api?username=CubdW)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 <!--
 **CubdW/CubdW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
